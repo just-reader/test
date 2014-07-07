@@ -11,6 +11,7 @@ namespace CTest
         {
             Console.WriteLine("And again, hi, world");
             Console.WriteLine("Here's a change");
+            Console.WriteLine("Pobeda razuma nad sarsaparilloy");
             Console.ReadLine();
         }
     }
