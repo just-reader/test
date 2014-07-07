@@ -10,6 +10,7 @@ namespace ATest
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world!");
+            Console.WriteLine("Lol");
             Console.ReadLine();
         }
     }
