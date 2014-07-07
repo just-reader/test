@@ -10,6 +10,7 @@ namespace CTest
         static void Main(string[] args)
         {
             Console.WriteLine("And again, hi, world");
+            Console.WriteLine("Pobeda razuma nad sarsaparilloy");
             Console.ReadLine();
         }
     }
