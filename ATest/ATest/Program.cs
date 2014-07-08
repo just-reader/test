@@ -12,6 +12,7 @@ namespace ATest
             Console.WriteLine("Hello world!");
             Console.WriteLine("Lol");
             Console.ReadLine();
+            Console.WriteLine("xxx");
         }
     }
 }
