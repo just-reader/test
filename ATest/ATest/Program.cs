@@ -14,5 +14,10 @@ namespace ATest
             Console.ReadLine();
             Console.WriteLine("xxx");
         }
+
+        static void SubA()
+        {
+            Console.WriteLine("Lil");
+        }
     }
 }
